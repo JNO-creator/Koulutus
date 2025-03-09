@@ -189,7 +189,7 @@
         <a href="/Meista">Meistä</a>
         <a href="/Yritys">Yritys</a>
         <a href="/Palvelut">Palvelut</a>
-        <a href="#Koulutus" class="active">Koulutus</a>
+        <a href="/Koulutus" class="active">Koulutus</a>
         <!-- Hamburger Icon -->
         <a href="javascript:void(0);" class="icon" onclick="toggleNavbar()">&#9776;</a>
     </div>
