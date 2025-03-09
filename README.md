@@ -185,11 +185,11 @@
 
     <!-- Top Navigation Bar placed before the header -->
     <div class="navbar" id="myNavbar">
-        <a href="#home" class="active">Koti</a>
+        <a href="/Kotisivu">Koti</a>
         <a href="/Meista">Meistä</a>
         <a href="/Yritys">Yritys</a>
         <a href="/Palvelut">Palvelut</a>
-        <a href="/Koulutus">Koulutus</a>
+        <a href="#Koulutus" class="active">Koulutus</a>
         <!-- Hamburger Icon -->
         <a href="javascript:void(0);" class="icon" onclick="toggleNavbar()">&#9776;</a>
     </div>
