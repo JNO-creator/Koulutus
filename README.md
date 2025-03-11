@@ -182,7 +182,7 @@
 
           /* Box with Background Image */
           .box-image {
-             background-image: url('mitta.jpg'); /* Corrected with url() */
+             background-image: url('tt.jpg'); /* Corrected with url() */
               background-size: cover;
               background-position: center;
               color: #0e194d;
