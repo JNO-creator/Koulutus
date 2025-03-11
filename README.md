@@ -262,8 +262,8 @@
 
       <!-- New Text Section -->
       <div class="intro-text">
-          <h2>Anna meidän auttaa Sinua ja liiketoimintaasi!</h2>
-          <p>Haluamme poistaa digitaalisen eriarvoisuuden yhteiskuntamme rakenteista.</p>
+          <h2>Kouluttautuminen on aivain tiedon löytymiseen ja sisäistämiseen</h2>
+          <p>Opiskele ja kouluttaudu yhdessä tai yksin.</p>
       </div>
 
       <!-- Main Content -->
