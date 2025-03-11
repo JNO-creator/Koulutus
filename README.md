@@ -284,7 +284,6 @@
                <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
       </section>
- 
       <!-- Footer -->
       <footer>
           <div class="footer-section contact">
