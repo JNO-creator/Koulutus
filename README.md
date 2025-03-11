@@ -144,7 +144,6 @@
 
           /* Box Styles */
           .box {
-              background-color: #38B6FF;
               background-color: #0e194d;
               box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3), -2px -2px 5px rgba(92, 97, 102, 0.5);
               border: 1px solid #ddd;
@@ -207,7 +206,7 @@
 
           /* Updated Footer */
           footer {
-              background-color: #38B6FF; /* Same as the large boxes */
+              background-color: #0e194d; /* Same as the large boxes */
               box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3), -2px -2px 5px rgba(92, 97, 102, 0.5); /* Same shadow as the boxes */
               border-radius: 8px; /* Same rounded corners as the boxes */
               padding: 40px 20px; /* Same padding as the boxes */
