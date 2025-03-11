@@ -269,21 +269,21 @@
       <!-- Main Content -->
       <section>
           <div class="box-container">
-              <!-- Tarina Box (Smaller) -->
+              <!-- Asiantuntijat Box (Smaller) -->
               <div class="box-small">
-                  <h3>Kuinka tarinamme alkoi?</h3>
-                  <a href="/Meista" class="cta-btn">Lue lisää</a>
-              </div>
-
-              <!-- Palvelut Box (Smaller) -->
-              <div class="box-small">
-                  <h3>Palvelut Sinun liiketoiminnallesi</h3>
+                  <h3>Tutustu asiantuntijoihimme ja löydä omasi?</h3>
                   <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
 
-              <!-- Referenssit Box (With Background Image) -->
+              <!-- Etäkoulutus Box (Smaller) -->
+              <div class="box-small">
+                  <h3>Tarvitsetko koulutusta etämuodossa?</h3>
+                  <a href="/Meista" class="cta-btn">Tutustu</a>
+              </div>
+
+              <!-- Lähikoulutus Box (With Background Image) -->
               <div class="box-image">
-                  <h3>Tutustu jo olemassa oleviin asiakkaisiin.</h3>
+                  <h3>Osallistu lähikoulutustapahtumiimme ja opi yhdessä</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
           </div>
