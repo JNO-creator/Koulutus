@@ -261,8 +261,8 @@
 
       <!-- New Text Section -->
       <div class="intro-text">
-          <h2>Kouluttautuminen on aivain tiedon löytymiseen ja sisäistämiseen</h2>
-          <p>Opiskele ja kouluttaudu yhdessä tai yksin.</p>
+          <h2>Kouluttautuminen on avain tiedon löytymiseen ja sisäistämiseen</h2>
+          <p>Haluamme poistaa digitaalisen eriarvoisuuden yhteiskuntamme rakenteista.</p>
       </div>
 
       <!-- Main Content -->
