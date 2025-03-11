@@ -270,7 +270,7 @@
           <div class="box-container">
               <!-- Asiantuntijat Box (Smaller) -->
               <div class="box-small">
-                  <h3>Tutustu asiantuntijoihimme ja löydä omasi?</h3>
+                  <h3>Tutustu asiantuntijoihimme!</h3>
                   <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
 
