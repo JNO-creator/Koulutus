@@ -270,19 +270,19 @@
           <div class="box-container">
               <!-- Asiantuntijat Box (Smaller) -->
               <div class="box-small">
-                  <h3>Tutustu asiantuntijoihimme!</h3>
+                  <h3>Asiantuntijamme</h3>
                   <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
 
               <!-- Etäkoulutus Box (Smaller) -->
               <div class="box-small">
-                  <h3>Tarvitsetko koulutusta etämuodossa?</h3>
+                  <h3>Koulutusta etämuodossa?</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
 
               <!-- Lähikoulutus Box (With Background Image) -->
               <div class="box-image">
-                  <h3>Osallistu lähikoulutustapahtumiimme ja opi yhdessä</h3>
+                  <h3>Kouluttaudu kanssamme porukassa</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
           </div>
