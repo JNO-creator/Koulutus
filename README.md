@@ -283,13 +283,6 @@
                   <h3>Tutustu jo olemassa oleviin asiakkaisiin.</h3>
                <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
- 
-              <!-- Ota yhteyttä Box (With Background Image) -->
-              <div class="box-image">
-                  <h3>Ota rohkeasti yhteyttä ja kysy lisätietoja</h3>
-              <a href="/Meista" class="cta-btn">Lähesty</a>
-              </div>
-          </div>
       </section>
  
       <!-- Footer -->
