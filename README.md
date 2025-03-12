@@ -282,7 +282,7 @@
 
               <!-- Lähikoulutus Box (With Background Image) -->
               <div class="box-image">
-                  <h3>Kouluttaudu kanssamme porukassa</h3>
+                  <h3>Kouluttaudu kanssamme</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
           </div>
