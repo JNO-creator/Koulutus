@@ -182,7 +182,7 @@
 
           /* Box with Background Image */
           .box-image {
-             background-image: url('koulutus.jpg'); /* Corrected with url() */
+             background-image: url('Kuva21.jpg'); /* Corrected with url() */
               background-size: cover;
               background-position: center;
               color: #0e194d;
