@@ -245,7 +245,7 @@
 
       <!-- Top Navigation Bar placed before the header -->
       <div class="navbar" id="myNavbar">
-          <a href="/Kotisivu">Koti</a>
+          <a href="/Self-Help-You">Koti</a>
           <a href="/Meista">Meistä</a>
           <a href="/Yritys">Yritys</a>
           <a href="/Palvelut">Palvelut</a>
