@@ -280,7 +280,7 @@
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
               
- <!-- Embedded Video Box (replacing the second small box) -->
+ <!-- Embedded Video Box (replacing the second small box) --> 
  <section>
    <div class="box-small">
   <h3>Tutustu koulutuksiimme</h3>
