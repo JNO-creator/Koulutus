@@ -172,7 +172,7 @@
         background-size: cover;
         background-position: center;
         color: #0e194d;
-        padding: 100px;
+        padding: 40px;
         text-align: center;
         width: 100%;
         border-radius: 8px;
