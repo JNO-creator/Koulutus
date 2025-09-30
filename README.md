@@ -316,11 +316,6 @@
         </div>
       </div>
     </section>
-  </body>
-</html>
-  </div>
-          </div>
-      </section>
        
       <!-- Footer -->
 <footer>
