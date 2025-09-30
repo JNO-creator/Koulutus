@@ -240,8 +240,8 @@
               padding-bottom: 80px; /* Space between content and footer */
           }
       </style>
-  </head>
-  <body>
+      </head>
+      <body>
 
       <!-- Top Navigation Bar placed before the header -->
       <div class="navbar" id="myNavbar">
@@ -264,7 +264,18 @@
           <h2>Kouluttautuminen on avain tiedon löytymiseen ja sisäistämiseen</h2>
           <p>Haluamme poistaa digitaalisen eriarvoisuuden yhteiskuntamme rakenteista.</p>
       </div>
-
+      
+<!-- Embedded Video Box (replacing the second small box) --> 
+              <section>
+              <div class="box-small">
+              <h3>Tutustu koulutuksiimme</h3>
+              <iframe width="100%" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+    title="Koulutusvideo" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen style="margin-top: 10px; border-radius: 8px;">
+    </iframe>
+     </div>
+     
       <!-- Main Content -->
       <section>
           <div class="box-container">
@@ -278,17 +289,6 @@
               <div class="box-small">
                   <h3>Koulutusta etämuodossa?</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
-              </div>
-              
-              <!-- Embedded Video Box (replacing the second small box) --> 
-              <section>
-              <div class="box-small">
-              <h3>Tutustu koulutuksiimme</h3>
-              <iframe width="100%" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-    title="Koulutusvideo" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen style="margin-top: 10px; border-radius: 8px;">
-    </iframe>
      </div>
         </div>
       </div>
