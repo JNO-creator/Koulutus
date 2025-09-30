@@ -280,11 +280,15 @@
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
 
-              <!-- Lähikoulutus Box (With Background Image) -->
-              <div class="box-image">
-                  <h3>Kouluttaudu kanssamme</h3>
-                  <a href="/Meista" class="cta-btn">Lue lisää</a>
-              </div>
+ <!-- Embedded Video Box (replacing the second small box) -->
+<div class="box-small">
+  <h3>Tutustu koulutuksiimme</h3>
+  <iframe width="100%" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+    title="Koulutusvideo" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen style="margin-top: 10px; border-radius: 8px;">
+  </iframe>
+</div>
           </div>
       </section>
 
