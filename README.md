@@ -273,7 +273,7 @@
                   <h3>Asiantuntijamme</h3>
                   <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
-
+              
               <!-- Etäkoulutus Box (Smaller) -->
               <div class="box-small">
                   <h3>Koulutusta etämuodossa?</h3>
@@ -289,8 +289,6 @@
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
   </iframe>
 </div>
-          </div>
-      </section>
 
       <!-- Footer -->
       <footer>
