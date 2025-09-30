@@ -228,7 +228,7 @@
       }
 
       section {
-        padding-bottom: 100px;
+        padding-bottom: 40px;
       }
     </style>
   </head>
