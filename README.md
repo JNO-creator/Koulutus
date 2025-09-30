@@ -289,7 +289,6 @@
               <div class="box-small">
                   <h3>Koulutusta etämuodossa?</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
-    </section>
       
       <!-- Footer -->
       <footer>
