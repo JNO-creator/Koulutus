@@ -186,7 +186,7 @@
               background-size: cover;
               background-position: center;
               color: #0e194d;
-              padding: 40px;
+              padding: 100px;
               text-align: center;
               width: 100%; /* Set a fixed height */
               border-radius: 8px;
@@ -274,7 +274,6 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
     </iframe>
-     </div>
           </div>
       </section>
        
