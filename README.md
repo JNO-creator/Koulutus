@@ -264,6 +264,8 @@
           <h2>Kouluttautuminen on avain tiedon löytymiseen ja sisäistämiseen</h2>
           <p>Haluamme poistaa digitaalisen eriarvoisuuden yhteiskuntamme rakenteista.</p>
       </div>
+      </div>
+    </div>
       
 <!-- Embedded Video Box (replacing the second small box) --> 
               <section>
@@ -274,6 +276,8 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
     </iframe>
+     </div>
+     </div>
      </div>
      
       <!-- Main Content -->
@@ -293,20 +297,19 @@
         </div>
       </div>
     </section>
-     
-         
+      
       <!-- Footer -->
-<footer>
-  <div class="footer-section contact">
+      <footer>
+      <div class="footer-section contact">
     <h4>Self-Help-You - osana yrityksesi tulevaisuuden suunnittelua</h4>
     <a href="#Otayhteytta">Ota yhteyttä</a>
     <a href="#Sahkoposti">Sähköposti</a>
     <a href="#Kanavat">Kanavat</a>
-  </div>
-  <div class="footer-bottom">
+    </div>
+    <div class="footer-bottom">
     <p>&copy; 2025 Self-Help-You. Kaikki oikeudet pidätetään.</p>
-  </div>
-</footer>
+    </div>
+    </footer>
       <script>
           /* Function to toggle the navbar on small screens */
           function toggleNavbar() {
