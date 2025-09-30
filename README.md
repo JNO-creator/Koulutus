@@ -268,6 +268,55 @@
         </div>
       </div>
     </section>
+        <!-- Form and Table Section -->
+    <section>
+      <div class="box-container">
+        <!-- Form Box -->
+        <div class="box-small" style="background-image: none; background-color: #f9f9f9;">
+          <h3>Ota yhteyttä</h3>
+          <form action="#" method="post" style="text-align: left; font-size: 14px;">
+            <label for="name">Nimi:</label><br />
+            <input type="text" id="name" name="name" style="width: 100%; padding: 5px; margin-bottom: 10px;" /><br />
+
+            <label for="email">Sähköposti:</label><br />
+            <input type="email" id="email" name="email" style="width: 100%; padding: 5px; margin-bottom: 10px;" /><br />
+
+            <label for="message">Viesti:</label><br />
+            <textarea id="message" name="message" rows="4" style="width: 100%; padding: 5px;"></textarea><br />
+
+            <button type="submit" style="margin-top: 10px; padding: 8px 12px; background-color: #0e194d; color: white; border: none; border-radius: 4px; cursor: pointer;">Lähetä</button>
+          </form>
+        </div>
+
+        <!-- Table Box -->
+        <div class="box-small" style="background-image: none; background-color: #f9f9f9;">
+          <h3>Koulutusohjelmat</h3>
+          <table style="width: 100%; font-size: 14px; border-collapse: collapse;">
+            <thead>
+              <tr style="background-color: #e1705d; color: white;">
+                <th style="padding: 8px; border: 1px solid #ccc;">Kurssi</th>
+                <th style="padding: 8px; border: 1px solid #ccc;">Kesto</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #ccc;">Digitaidot 101</td>
+                <td style="padding: 8px; border: 1px solid #ccc;">4 viikkoa</td>
+              </tr>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #ccc;">Tietoturva</td>
+                <td style="padding: 8px; border: 1px solid #ccc;">2 viikkoa</td>
+              </tr>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #ccc;">Sosiaalinen media</td>
+                <td style="padding: 8px; border: 1px solid #ccc;">3 viikkoa</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
 
   </body>
 </html>
