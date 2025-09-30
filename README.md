@@ -290,19 +290,19 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
   </iframe>
-  
-  <!-- Footer -->
-      <footer>
-          <div class="footer-section contact">
-              <h4>Self-Help-You</h4>
-              <a href="/Otayhteytta" class="cta-btn">Ota yhteyttä</a>
-              <a href="/Sahkoposti" class="cta-btn">Sähköposti</a>
-              <a href="/Kanavat" class="cta-btn">Kanavat</a>
-          </div>
-          <div class="footer-bottom">
-              <p>&copy; 2025 Self-Help-You. Kaikki oikeudet pidätetään.</p>
-          </div>
-      </footer>
+ </section>
+      <!-- Footer -->
+<footer>
+  <div class="footer-section contact">
+    <h4>Self-Help-You - osana yrityksesi tulevaisuuden suunnittelua</h4>
+    <a href="#Otayhteytta">Ota yhteyttä</a>
+    <a href="#Sahkoposti">Sähköposti</a>
+    <a href="#Kanavat">Kanavat</a>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2025 Self-Help-You. Kaikki oikeudet pidätetään.</p>
+  </div>
+</footer>
       <script>
           /* Function to toggle the navbar on small screens */
           function toggleNavbar() {
