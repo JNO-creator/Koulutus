@@ -264,8 +264,6 @@
           <h2>Kouluttautuminen on avain tiedon löytymiseen ja sisäistämiseen</h2>
           <p>Haluamme poistaa digitaalisen eriarvoisuuden yhteiskuntamme rakenteista.</p>
       </div>
-      </div>
-    </div>
       
 <!-- Embedded Video Box (replacing the second small box) --> 
               <section>
