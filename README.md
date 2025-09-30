@@ -122,7 +122,7 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 10px;
-        margin-top: 40px;
+        margin-top: 80px;
       }
 
       .box-container .box-image {
