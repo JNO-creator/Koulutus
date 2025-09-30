@@ -279,9 +279,9 @@
                   <h3>Koulutusta etämuodossa?</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
-                </div>
-  </div>
+              
  <!-- Embedded Video Box (replacing the second small box) -->
+ <section>
 <div class="box-small">
   <h3>Tutustu koulutuksiimme</h3>
   <iframe width="100%" height="100" src="https://www.youtube.com/embed/dQw4w9WgXcQ"
@@ -289,7 +289,6 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
   </iframe>
-</div>
 
       <!-- Footer -->
       <footer>
