@@ -277,9 +277,7 @@
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
     </iframe>
      </div>
-     </div>
-     </div>
-     
+   
       <!-- Main Content -->
       <section>
           <div class="box-container">
