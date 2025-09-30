@@ -288,8 +288,8 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen style="margin-top: 10px; border-radius: 8px;">
     </iframe>
-    </section>
-  
+  <div>
+    </div>
       <!-- Footer -->
       <footer>
       <div class="footer-section contact">
