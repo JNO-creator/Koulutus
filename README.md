@@ -194,7 +194,7 @@
           }
 
           .box-image h3 {
-              margin-bottom: 20px; /* Space between title and paragraph */
+              margin-bottom: 40px; /* Space between title and paragraph */
               font-size: 24px;
               color: #e1705d;
           }
@@ -237,7 +237,7 @@
 
           /* Add space between the last box and footer */
           section {
-              padding-bottom: 80px; /* Space between content and footer */
+              padding-bottom: 100px; /* Space between content and footer */
           }
       </style>
       </head>
