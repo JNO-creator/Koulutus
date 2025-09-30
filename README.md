@@ -237,7 +237,7 @@
 
           /* Add space between the last box and footer */
           section {
-              padding-bottom: 40px; /* Space between content and footer */
+              padding-bottom: 80px; /* Space between content and footer */
           }
       </style>
   </head>
